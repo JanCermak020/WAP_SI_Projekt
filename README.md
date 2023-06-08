@@ -20,10 +20,11 @@
 ![Preview of Backend](https://i.imgur.com/1aPWHXF.png)
 ### __Database__
 * Storage of data used by __Backend__ and shown on __Frontend__.
-![Preview of database]()
+![Preview of database](https://i.imgur.com/8GD12rO.png)
 ## Simple installation guide
 * 1.Download this project
 * 2.Exctract it using __7zip__ or __Winrar__
 * 3.Put folder called __armouredboard__ in to xampp \ mysql \ data
-* 4.Open __index.php__ and in it open the terminal and write (your php.exe route)-S localhost:8000
+* 4.Open the main folder in VSC.
+* 6.Open __index.php__  and in it open the terminal and (replace this with your php.exe route)-S localhost:8000
 * 5.Now just write __localhost:8000__ in your web browser and you should see it opened

@@ -28,3 +28,8 @@
 * 4.Open the main folder in VSC.
 * 6.Open __index.php__  and in it open the terminal and (replace this with your php.exe route)-S localhost:8000
 * 5.Now just write __localhost:8000__ in your web browser and you should see it opened
+## Lighthouse test
+### Mobile Lighthouse test
+![Mobile Lighthouse test](https://i.imgur.com/l5Sos7J.png)
+### Desktop Lighthouse test
+![Desktop Lighthouse test](https://i.imgur.com/Op8hYE1.png)

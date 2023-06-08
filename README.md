@@ -13,12 +13,14 @@
 ### __Frontend__
 * It is the visual part of the project.
 * It consists of HTML and CSS.
-![Preview of site](https://imgur.com/a/gmKSwQ0)
+![Preview of site]()
 ### __Backend__
 * This part is used to connect __Frontend__ to the __Database__.
 * It's written in __PHP__.
+* ![Preview of backend]()
 ### __Database__
 * Storage of data used by __Backend__ and shown on __Frontend__.
+* ![Preview of database]()
 ## Simple installation guide
 * 1.Download this project
 * 2.Exctract it using __7zip__ or __Winrar__
